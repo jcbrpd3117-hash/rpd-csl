@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "RPD Crime Scene Log",
+    "slug": "rpd-crime-scene-log",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "jsEngine": "hermes",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "gov.raleighpd.csl"
+    },
+    "android": {
+      "package": "gov.raleighpd.csl"
+    }
+  }
+}
