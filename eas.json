@@ -1,15 +1,8 @@
 {
-  "cli": {
-    "version": ">= 3.18.0",
-    "appVersionSource": "remote"
-  },
+  "cli": { "version": ">= 3.18.0", "appVersionSource": "remote" },
   "build": {
-    "sim": {
-      "ios": { "simulator": true }
-    },
-    "production": {
-      "ios": {}
-    }
+    "sim": { "ios": { "simulator": true } },
+    "production": { "ios": {} }
   },
   "submit": {}
 }
