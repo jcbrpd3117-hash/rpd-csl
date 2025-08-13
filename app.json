@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "RPD Crime Scene Log",
-    "slug": "rpd-crime-scene-log",
+    "slug": "raleigh-police-department-crime-scene-log",
     "version": "1.0.0",
     "orientation": "portrait",
     "jsEngine": "hermes",
@@ -14,7 +14,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "a915823f-718d-47dd-b62d-43ee528224d6"
+        "projectId": "a915823f"
       }
     }
   }
