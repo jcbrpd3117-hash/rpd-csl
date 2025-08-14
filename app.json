@@ -5,17 +5,8 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "jsEngine": "hermes",
-    "ios": {
-      "supportsTablet": true,
-      "bundleIdentifier": "gov.raleighpd.csl"
-    },
-    "android": {
-      "package": "gov.raleighpd.csl"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "a915823f"
-      }
-    }
+    "ios": { "supportsTablet": true, "bundleIdentifier": "gov.raleighpd.csl" },
+    "android": { "package": "gov.raleighpd.csl" },
+    "extra": { "eas": { "projectId": "a915823f" } }
   }
 }
