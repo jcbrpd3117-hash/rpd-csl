@@ -7,6 +7,10 @@
     "jsEngine": "hermes",
     "ios": { "supportsTablet": true, "bundleIdentifier": "gov.raleighpd.csl" },
     "android": { "package": "gov.raleighpd.csl" },
-    "extra": { "eas": { "projectId": "a915823f" } }
+    "extra": {
+      "eas": {
+        "projectId": "a915823f-718d-47dd-b62d-43ee528224d6"
+      }
+    }
   }
 }
